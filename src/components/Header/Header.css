@@ -1,0 +1,10 @@
+.header{
+    width: 100%;
+    background-color: blueviolet;
+    padding: 1em 0em;
+}
+
+.header h1{
+    text-align: center;
+    color: white;
+}

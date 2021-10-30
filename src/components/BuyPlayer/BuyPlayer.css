@@ -1,0 +1,20 @@
+.main-player{
+    width: 100%;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.updatePlayer{
+    width: 100%;
+    padding: 50px 10px;
+    background-color: tomato;
+    color: white;
+}
+.updatePlayer h2{
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+.updatePlayer p{
+    font-weight: 500;
+    margin-bottom: 1em;
+}

@@ -1,0 +1,61 @@
+[{
+    "name": "Sakib Al Hasan",
+    "image": "https://c.ndtvimg.com/2019-10/kbn7tvqg_shakib-al-hasan_625x300_21_October_19.jpg?output-quality=60&output-format=webp&downsize=555:*",
+    "role": "Batting Al-rounder",
+    "country": "Bangladesh",
+    "price": "1042"
+  }, {
+    "name": "Shahid Afridi",
+    "image": "https://c.ndtvimg.com/2019-05/d4mr0go_afridi_625x300_02_May_19.jpg?output-quality=60&output-format=webp&downsize=555:*",
+    "role": "Batting Al-rounder",
+    "country": "Pakistan",
+    "price": "829"
+  }, {
+    "name": "Virat Kohli",
+    "image": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/virat_kohli_660_040221083103.jpg",
+    "role": "Batsman",
+    "country": "India",
+    "price": "649"
+  }, {
+    "name": "Mushfiqur Rahim",
+    "image": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/02/pjimage-5-1581849600.jpg",
+    "role": "Wicket Keeper",
+    "country": "Bangladesh",
+    "price": "459"
+  }, {
+    "name": "Michel Stark",
+    "image": "https://cdn.insidesport.co/wp-content/uploads/2020/11/09130926/fd.png",
+    "role": "Bowler",
+    "country": "Australia",
+    "price": "1100"
+  }, {
+    "name": "Kane Williamson",
+    "image": "https://imgeng.jagran.com/images/2020/sep/kane-williamson1601214895884.jpg",
+    "role": "Batting Al-rounder",
+    "country": "Newzealand",
+    "price": "556"
+  }, {
+    "name": "Malinga",
+    "image": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/02/922698-801773-3-lasith-malinga-file-photo.jpg",
+    "role": "Bowler",
+    "country": "Srilanka",
+    "price": "948"
+  }, {
+    "name": "Rohit Sharma",
+    "image": "https://img.etimg.com/thumb/msid-70119616,width-300,imgsize-160034,,resizemode-4,quality-100/.jpg",
+    "role": "Batsman",
+    "country": "India",
+    "price": "937"
+  }, {
+    "name": "Mohammad Amir",
+    "image": "https://www.thestatesman.com/wp-content/uploads/2020/05/1497928670-mohammad-amir-ct-2017-india-vs-pakistan.jpg",
+    "role": "Bowler",
+    "country": "Pakistan",
+    "price": "700"
+  }, {
+    "name": "Imran Tahir",
+    "image": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/05/17/94407-imran-tahir.jpg?itok=GGERgcQB",
+    "role": "Bowler",
+    "country": "South Africa",
+    "price": "520"
+  }]
